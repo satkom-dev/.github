@@ -1,6 +1,4 @@
-# Satkomindo Mediyasa Dev
-
-Welcome to Official Repository App Satkomindo Mediyasa
+# Welcome to Official Repository App Satkomindo Mediyasa
 
 We are company with core business technology information & network communication which started in 2002, 
 with that experienced we're giving solution which is focus on customer satisfaction and strategic partnership throughout Indonesia.
