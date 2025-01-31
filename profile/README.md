@@ -13,6 +13,7 @@ More information about us you can see in our homepage [website](https://satkomin
 1. Javascript (Nodejs)
 2. Typescript (Adonisjs)
 3. Php (Laravel, Codeigniter)
+4. Python (FastAPI)
 
 ## Other Tools
 1. Nginx
